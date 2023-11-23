@@ -17,8 +17,6 @@ Durante meu tempo livre, gosto de fazer labs tomando um café, ler, ir à academ
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascosm3&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascosm3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" />
-  
 </div>
 
 ## Ferramentas e Tecnologias
