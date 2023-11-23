@@ -5,13 +5,6 @@ O que me empolga no DevOps é a cultura de facilitar, automatizar e reinventar f
 
 Durante meu tempo livre, gosto de fazer labs tomando um café, ler, ir à academia, jogar um overwatch e passar tempo com meus entes queridos.
 
-## Contato:
-
-<div>
-<a href = "mailto:lcds1944@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-cosme-7413a2196" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
@@ -28,3 +21,9 @@ Durante meu tempo livre, gosto de fazer labs tomando um café, ler, ir à academ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40"/>/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40"/>/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/>/
+
+## Contato:
+<div>
+<a href = "mailto:lcds1944@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-cosme-7413a2196" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
