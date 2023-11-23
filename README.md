@@ -7,8 +7,6 @@ Durante meu tempo livre, gosto de fazer labs tomando um café, ler, ir à academ
 
 
 <div>
-<a href="https://github.com/lucascosm3">
-<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascosm3&layout=compact&langs_count=7&theme=light"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascosm3&show_icons=true"/>
 </div>
   
