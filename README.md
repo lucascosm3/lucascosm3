@@ -1,5 +1,5 @@
-## Olá, Seja Bem vindo ao meu perfil GitHub 👋
-Este é o Lucas! Atualmente estou trabalhando como DevOps Engineer na NTT Data 100% remoto. Minha bagagem de tecnologia inclui Linux, fundamentos de rede, programação (Bash), Docker, Kubernetes, AWS, Terraform, Prometheus, Grafana e outros.
+## Olá, Eu sou o Lucas Cosme 👋
+Atualmente estou trabalhando como DevOps Engineer na NTT Data 100% remoto. Minha bagagem de tecnologia inclui Linux, fundamentos de rede, programação (Bash), Docker, Kubernetes, AWS, Terraform, Prometheus, Grafana e outros.
 
 O que me empolga no DevOps é a cultura de facilitar, automatizar e reinventar fluxos de trabalho 🧡.
 
