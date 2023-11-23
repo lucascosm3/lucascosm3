@@ -22,6 +22,7 @@ Durante meu tempo livre, gosto de fazer labs tomando um café, ler, ir à academ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="40" height="40"/>/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40"/>/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/>/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg" width="40" height="40"/>/
 
 ## Contatos:
 <div>
