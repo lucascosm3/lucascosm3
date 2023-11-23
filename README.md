@@ -1,7 +1,7 @@
 ## Olá, Seja Bem vindo ao meu perfil GitHub 👋
 Este é o Lucas! Atualmente estou trabalhando como DevOps Engineer na NTT Data 100% remoto. Minha bagagem de tecnologia inclui Linux, fundamentos de rede, programação (Bash), Docker, Kubernetes, AWS, Terraform, Prometheus, Grafana e outros.
 
-O que me empolga no DevOps é a cultura de facilitar, automatizar e reinventar fluxos de trabalhos 🧡.
+O que me empolga no DevOps é a cultura de facilitar, automatizar e reinventar fluxos de trabalho 🧡.
 
 Durante meu tempo livre, gosto de fazer labs tomando um café, ler, ir à academia, jogar um overwatch e passar tempo com meus entes queridos.
 
@@ -14,6 +14,6 @@ Durante meu tempo livre, gosto de fazer labs tomando um café, ler, ir à academ
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascosm3&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascosm3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
