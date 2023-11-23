@@ -27,7 +27,7 @@ Durante meu tempo livre, gosto de fazer labs tomando um café, ler, ir à academ
   </tr>
 </table>
 
-## Contatos:
+## Contato:
 <div>
 <a href="https://www.linkedin.com/in/lucas-cosme-7413a2196" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:lcds1944@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
