@@ -4,13 +4,12 @@ Atualmente estou trabalhando como DevOps Engineer na NTT Data 100% remoto. Minha
 O que me empolga no DevOps é a cultura de facilitar, automatizar e reinventar fluxos de trabalho 🧡.
 
 Durante meu tempo livre, gosto de fazer labs tomando um café, ler, ir à academia, jogar um overwatch e passar tempo com meus entes queridos.
-
-
 <div>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascosm3&show_icons=true"/>
 </div>
-  
+
 ## Ferramentas e Tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
@@ -22,7 +21,6 @@ Durante meu tempo livre, gosto de fazer labs tomando um café, ler, ir à academ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg" width="40" height="40"/>
-
 ## Contatos:
 <div>
 <a href = "mailto:lcds1944@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
