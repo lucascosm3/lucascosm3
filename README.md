@@ -1,1 +1,1 @@
-![Alt Text](![image](![image](https://github.com/lucascosm3/lucascosm3/assets/33657888/12626f4e-9a3e-4b85-9537-cfe1afd6f7be)
+![Alt Text]([![image](![image](https://github.com/lucascosm3/lucascosm3/assets/33657888/12626f4e-9a3e-4b85-9537-cfe1afd6f7be](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D618499393&psig=AOvVaw1_7ml9thKnLK9vK5qyDXFs&ust=1715104414009000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjgzP_L-YUDFQAAAAAdAAAAABAE))
