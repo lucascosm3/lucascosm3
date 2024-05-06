@@ -1,1 +1,1 @@
-![Alt Text]([![image](![image](https://github.com/lucascosm3/lucascosm3/assets/33657888/12626f4e-9a3e-4b85-9537-cfe1afd6f7be](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D618499393&psig=AOvVaw1_7ml9thKnLK9vK5qyDXFs&ust=1715104414009000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjgzP_L-YUDFQAAAAAdAAAAABAE))
+![Alt Text](https://steamuserimages-a.akamaihd.net/ugc/313367221046638467/41ED95ACE18D194A63D0DE3F826EA01B5F3D34DD/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
