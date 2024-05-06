@@ -1,1 +1,3 @@
-![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Alt Text](![image](![image](https://github.com/lucascosm3/lucascosm3/assets/33657888/12626f4e-9a3e-4b85-9537-cfe1afd6f7be)
+)
+)
