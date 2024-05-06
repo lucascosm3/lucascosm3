@@ -1,1 +1,1 @@
-Durante meu tempo livre, gosto de fazer labs tomando um café, ler, jogar um overwatch e passar tempo com meus entes queridos.
+![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
